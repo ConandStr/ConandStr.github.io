@@ -1098,7 +1098,7 @@ pre code {
   margin: 0;
 }
 .site-subtitle {
-  color: #ddd;
+  color: #f5f5f5;
   font-size: 0.8125em;
   margin: 10px 10px 0;
 }
@@ -1232,7 +1232,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #8a38cd;
+    background: #ffc169;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2433,7 +2433,7 @@ header.header {
   }
 }
 .site-brand-container {
-  background: var(--theme-color);
+  background: #87daff;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
@@ -2691,4 +2691,10 @@ header.header {
   .sidebar {
     display: none;
   }
+}
+body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
