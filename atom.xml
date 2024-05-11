@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>舒墨</title>
+  
+  <subtitle>~~欢迎你的到来！</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-05-11T02:58:35.153Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>舒墨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用生命影响生命</title>
+    <link href="http://example.com/posts/23190/"/>
+    <id>http://example.com/posts/23190/</id>
+    <published>2024-05-10T15:08:03.000Z</published>
+    <updated>2024-05-11T02:58:35.153Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;把自己活成一道光，&lt;/p&gt;
+&lt;p&gt;因为你不知道，&lt;/p&gt;
+&lt;p&gt;谁会借着你的光，&lt;/p&gt;
+&lt;p&gt;走出了黑暗。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>二月总结</title>
+    <link href="http://example.com/posts/16273/"/>
+    <id>http://example.com/posts/16273/</id>
+    <published>2024-05-10T09:44:10.000Z</published>
+    <updated>2024-05-11T02:58:05.127Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;博客系统出现问题，导致现在找不到一月的总结，也没有备份，等我搞清楚逻辑，看看能不能找回来，这个月就写一些输入。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+</feed>
