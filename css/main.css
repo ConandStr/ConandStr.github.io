@@ -1327,7 +1327,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #f1d579;
+    background: #ff3;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1987,7 +1987,7 @@ pre code {
 .post-body h5 .headerlink,
 .post-body h6 .headerlink {
   border-bottom-style: none;
-  color: inherit;
+  color: inherits;
   float: right;
   font-size: 0.875em;
   margin-left: 10px;
@@ -2073,6 +2073,16 @@ pre code {
   position: absolute;
   top: 0;
   width: 100%;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
 }
 .post-gallery {
   display: flex;
