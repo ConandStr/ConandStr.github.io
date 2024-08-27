@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-19T15:57:20.930Z</updated>
+  <updated>2024-08-27T13:46:10.372Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>六月总结</title>
+    <link href="http://example.com/posts/21ba55f/"/>
+    <id>http://example.com/posts/21ba55f/</id>
+    <published>2024-08-27T13:39:52.000Z</published>
+    <updated>2024-08-27T13:46:10.372Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这个月高强度看了很多电影，终于知道之前互联网上的豆瓣XX榜单是什么意思了。之前我第一次听到这个说法时，还很疑惑，为什么要以豆瓣为标准？这次确实找到了很多不错的影评。&lt;/p&gt;
+&lt;p&gt;即将结束大学考试，希望一切顺利。&lt;/p&gt;
+&lt;p&gt;本月19号忘记了，下次一定按时上传。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>五月总结</title>
     <link href="http://example.com/posts/b6caff18/"/>
     <id>http://example.com/posts/b6caff18/</id>
     <published>2024-07-19T15:40:59.000Z</published>
-    <updated>2024-07-19T15:57:20.930Z</updated>
+    <updated>2024-07-19T15:58:17.104Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;完成博客的搭建&quot;&gt;&lt;a href=&quot;#完成博客的搭建&quot; class=&quot;headerlink&quot; title=&quot;完成博客的搭建&quot;&gt;&lt;/a&gt;完成博客的搭建&lt;/h3&gt;&lt;p&gt;从1月开始想搭建，多次启动，都以失败告终，这次终于成功了。&lt;/p&gt;</summary>
