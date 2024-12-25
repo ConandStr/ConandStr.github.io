@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-19T07:15:47.123Z</updated>
+  <updated>2024-12-25T04:04:47.234Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,47 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>人怎么吃才好</title>
+    <link href="http://example.com/posts/eca25c6a/"/>
+    <id>http://example.com/posts/eca25c6a/</id>
+    <published>2024-12-23T05:20:04.000Z</published>
+    <updated>2024-12-25T04:04:47.234Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文主要内容来源《你就是吃出来的》夏萌&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="读书分享" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十月总结</title>
+    <link href="http://example.com/posts/edb9a744/"/>
+    <id>http://example.com/posts/edb9a744/</id>
+    <published>2024-12-23T05:10:15.000Z</published>
+    <updated>2024-12-25T04:06:10.324Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;书&quot;&gt;&lt;a href=&quot;#书&quot; class=&quot;headerlink&quot; title=&quot;书&quot;&gt;&lt;/a&gt;书&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;《昨日之前的世界》9.3&amp;#x2F;10&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是被最后关于健康的部分吸引看的，没想到前面的内容很写得很好。看完让我承认国家的合法性，也知道了当前人类能够自由迁徙是幸运的。&lt;/li&gt;&lt;/ul&gt;</summary>
+    
+    
+    
+    
+    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>九月总结</title>
     <link href="http://example.com/posts/d33db2d3/"/>
     <id>http://example.com/posts/d33db2d3/</id>
     <published>2024-11-19T06:47:13.000Z</published>
-    <updated>2024-11-19T07:15:47.123Z</updated>
+    <updated>2024-11-19T07:16:19.297Z</updated>
     
     
     <summary type="html">&lt;p&gt;动手换了电脑的屏幕，之前买电脑的时候还专门升级了一下屏幕，结果第一个倒下的居然是屏幕。&lt;/p&gt;
@@ -147,23 +183,6 @@
     
     
     <summary type="html">&lt;p&gt;后面部分当月只写了个标题，根本不记得发生了什么，总结还是要在当月月底写完呀！&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二月总结</title>
-    <link href="http://example.com/posts/16273/"/>
-    <id>http://example.com/posts/16273/</id>
-    <published>2024-05-10T09:44:10.000Z</published>
-    <updated>2024-05-11T02:58:05.127Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;博客系统出现问题，导致现在找不到一月的总结，也没有备份，等我搞清楚逻辑，看看能不能找回来，这个月就写一些输入。&lt;/p&gt;</summary>
     
     
     
