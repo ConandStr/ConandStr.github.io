@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-27T14:18:20.384Z</updated>
+  <updated>2025-04-19T08:23:05.155Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2025年2月总结</title>
+    <link href="http://example.com/posts/b420cad8/"/>
+    <id>http://example.com/posts/b420cad8/</id>
+    <published>2025-04-19T08:15:23.000Z</published>
+    <updated>2025-04-19T08:23:05.155Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;过春节 + 焦虑工作 + 回校，看了很多剧。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2025年1月总结</title>
     <link href="http://example.com/posts/5f1771db/"/>
     <id>http://example.com/posts/5f1771db/</id>
     <published>2025-03-27T14:07:02.000Z</published>
-    <updated>2025-03-27T14:18:20.384Z</updated>
+    <updated>2025-03-28T07:48:12.529Z</updated>
     
     
     <summary type="html">&lt;p&gt;迷茫焦虑中啥也没干，只看了书，剧，影，怀疑自己的眼睛不想要了？&lt;/p&gt;
@@ -171,25 +188,6 @@
     
     
     <category term="站点" scheme="http://example.com/tags/%E7%AB%99%E7%82%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2024年6月总结</title>
-    <link href="http://example.com/posts/21ba55f/"/>
-    <id>http://example.com/posts/21ba55f/</id>
-    <published>2024-08-27T13:39:52.000Z</published>
-    <updated>2025-03-22T01:40:48.964Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;这个月高强度看了很多电影，终于知道之前互联网上的豆瓣XX榜单是什么意思了。之前我第一次听到这个说法时，还很疑惑，为什么要以豆瓣为标准？这次确实找到了很多不错的影评。&lt;/p&gt;
-&lt;p&gt;即将结束大学考试，希望一切顺利。&lt;/p&gt;
-&lt;p&gt;本月19号忘记了，下次一定按时上传。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="总结" scheme="http://example.com/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
